@@ -1,0 +1,9 @@
+# Exclude all by default
+*
+
+!.gitignore
+
+# Whitelist only the selected files
+!cidades.json
+!nomes.json
+!times.json
